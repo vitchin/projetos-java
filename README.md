@@ -1,5 +1,8 @@
-# Exercícios de métodos
-### Exercícios de Java utilizando métodos.
+# Projetos
 
-_**Obs:**_ Esses exercícios foram ensinados no curso de métodos da Digital Inovation One.
+**Objetos:** 
+- Calculadora
+- PeriodoDia
+- Quadrilatero
+- ValorDeEmprestimo
 
